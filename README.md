@@ -1,1 +1,1 @@
-# BOOTAMP_MISIS_HACK_THE_CART
+# Solution for Hackathon of Lenta "Hack the Cart"
